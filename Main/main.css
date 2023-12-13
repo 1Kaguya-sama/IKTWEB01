@@ -1,0 +1,13 @@
+body { /* A háttérkép beállításai */
+    background-image: url("../Main/img/rift.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    min-height: 100%;
+}

@@ -1,0 +1,96 @@
+.image-container { /* A kép doboz*/
+    position: relative;
+    width: 200px;
+    height: 400px;
+    margin: 10px;
+    overflow: hidden;
+    transform: translate3d(0, 0, 0);
+}
+
+.kep { /* A képnek a formázása*/
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: filter 0.3s ease;
+    border: 5px black;
+    border-radius: 10px;
+    transform: translate3d(0, 0, 0);
+}
+
+.text { /* A képnek a szövege, karakterenként változó*/
+    position: absolute;
+    top: 95%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    width: 100%;
+    height: 100%;
+}
+
+.hover:hover .kep /* Kurzor rárakására a kép sötétedik*/{
+    filter: brightness(70%);
+}
+
+.hover:hover .text /* Kurzor rárakására a .text class megjelenik*/ {
+    opacity: 1;
+}
+
+/* A karaktereknek a képeinek a pozíciója*/
+.ahri-kep { object-position: 65% 50%; }
+.veigar-kep { object-position: 70% 50%; }
+.katarina-kep { object-position: 70% 50%; }
+.aurelion-kep { object-position: 68% 50%; }
+.taliyah-kep { object-position: 80% 50%; }
+.aatrox-kep { object-position: 70% 50%; }
+.kennen-kep { object-position: 80% 50%; }
+.ornn-kep { object-position: 50% 50%; }
+.shen-kep { object-position: 80% 50%; }
+.riven-kep { object-position: 80% 50%; }
+.nunu-kep { object-position: 75% 50%; }
+.kindred-kep { object-position: 60% 50%; }
+.khazix-kep { object-position: 80% 50%; }
+.elise-kep { object-position: 80% 50%; }
+.hecarim-kep { object-position: 70% 50%; }
+.samira-kep { object-position: 60% 50%; }
+.tristana-kep { object-position: 73% 50%; }
+.lucian-kep { object-position: 80% 10%; }
+.varus-kep { object-position: 53% 50%; }
+.kaisa-kep { object-position: 45% 50%; }
+.rell-kep { object-position: 45% 50%; }
+.thresh-kep { object-position: 70% 50%; }
+.pyke-kep { object-position: 50% 50%; }
+.rakan-kep { object-position: 40% 50%; }
+.nautilus-kep { object-position: 85% 50%; }
+
+.grid-5-by-5 { /* 5x5-ös karakter táblázát*/
+	display: grid;
+	grid-template-columns: repeat(5, 1fr);
+	grid-template-rows: repeat(5, 1fr);
+	grid-gap: 80px;
+    grid-auto-rows: 75px;
+    margin-top: 2000px;
+    transform: translate3d(0, 0, 0);
+    }
+
+.item { /* A kép keretének a design-ja*/
+    background: linear-gradient(45deg, rgba(218, 165, 32, 0.5) 25%, transparent 25%, transparent 50%, rgba(218, 165, 32, 0.5) 50%, rgba(218, 165, 32, 0.5) 75%, transparent 75%, transparent),
+                    repeating-linear-gradient(45deg, transparent, transparent 5px, rgba(255, 255, 255, 0.1) 5px, rgba(255, 255, 255, 0.1) 10px); /* Metallic gradient with texture */
+    border: 4px solid transparent;
+    padding: 0.25em;
+    transform: translate3d(0, 0, 0);
+    border-image: linear-gradient(45deg, rgba(218, 165, 32, 0.5) 25%, transparent 25%, transparent 50%, rgba(218, 165, 32, 0.5) 50%, rgba(218, 165, 32, 0.5) 75%, transparent 75%, transparent) 1; /* Gold-colored gradient as border-image */
+    transition: transform 0.3s ease-in-out;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+    }
+    
+.item:hover { /* Kurzor rárakására a kiválasztott elem megnövekszik*/
+    transform: scale(1.05);
+    }
+    
+    
