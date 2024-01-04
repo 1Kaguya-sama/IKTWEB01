@@ -1,0 +1,24 @@
+{
+    "story": "More than just the lightning-quick enforcer of Ionian balance, Kennen is the only yordle member of the Kinkou. Despite his small, furry stature, he is eager to take on any threat with a whirling storm of shuriken and boundless enthusiasm. Alongside his master Shen, Kennen patrols the spirit realm, employing devastating electrical energy to strike down his enemies.",
+    "lane": "Lane: Top Lane",
+    "role": "Role: Mage",
+    "badmatchup1": "Darius",
+    "badmatchup2": "Garen",
+    "badmatchup3": "Jax",
+    "goodmatchup1": "Teemo",
+    "goodmatchup2": "Riven",
+    "goodmatchup3": "Yasuo",
+    "title": "Kennen, the Heart of the Tempest",
+    "background": "../Main/background/KennenBackground.jpg",
+    "passiveimage": "../Main/kepessegek/Kennen/passive.png",
+    "Qimage": "../Main/kepessegek/Kennen/q.png",
+    "Wimage": "../Main/kepessegek/Kennen/w.png",
+    "Eimage": "../Main/kepessegek/Kennen/e.png",
+    "Rimage": "../Main/kepessegek/Kennen/r.png",
+    "video0": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0009/ability_0009_P1.webm",
+    "video1": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0009/ability_0009_Q1.webm",
+    "video2": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0009/ability_0009_W1.webm",
+    "video3": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0009/ability_0009_E1.webm",
+    "video4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0009/ability_0009_R1.webm"
+
+}

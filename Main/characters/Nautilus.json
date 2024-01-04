@@ -1,0 +1,23 @@
+{
+    "story": "A lonely legend as old as the first piers sunk in Bilgewater, the armored goliath known as Nautilus roams the dark waters off the coast of the Blue Flame Isles. Driven by a forgotten betrayal, he strikes without warning, swinging his enormous anchor to save the wretched, and drag the greedy to their doom. It is said he comes for those who forget to pay the “Bilgewater tithe”, pulling them down beneath the waves with him—an iron-clad reminder that none can escape the depths.",
+    "lane": "Lane: Support",
+    "role": "Role: Tank",
+    "badmatchup1": "Leona",
+    "badmatchup2": "Nautilus",
+    "badmatchup3": "Blitzcrank",
+    "goodmatchup1": "Janna",
+    "goodmatchup2": "Sona",
+    "goodmatchup3": "Soraka",
+    "title": "Nautilus, the Titan of the Depths",
+    "background": "../Main/background/NautilusBackground.jpg",
+    "passiveimage": "../Main/kepessegek/Nautilus/passive.png",
+    "Qimage": "../Main/kepessegek/Nautilus/q.png",
+    "Wimage": "../Main/kepessegek/Nautilus/w.png",
+    "Eimage": "../Main/kepessegek/Nautilus/e.png",
+    "Rimage": "../Main/kepessegek/Nautilus/r.png",
+    "video0": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0009/ability_0009_P1.webm",
+    "video1": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0009/ability_0009_Q1.webm",
+    "video2": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0009/ability_0009_W1.webm",
+    "video3": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0009/ability_0009_E1.webm",
+    "video4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0009/ability_0009_R1.webm"
+}

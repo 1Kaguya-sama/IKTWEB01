@@ -1,0 +1,23 @@
+{
+    "story": "Once honored defenders of Shurima against the Void, Aatrox and his brethren would eventually become an even greater threat to Runeterra, and were defeated only by cunning mortal sorcery. But after centuries of imprisonment, Aatrox was the first to find freedom once more, corrupting and transforming those foolish enough to try and wield the magical weapon that contained his essence. Now, with stolen flesh, he walks Runeterra in a brutal approximation of his previous form, seeking an apocalyptic and long overdue vengeance.",
+    "lane": "Lane: Top Lane",
+    "role": "Role: Fighter",
+    "badmatchup1": "Darius",
+    "badmatchup2": "Garen",
+    "badmatchup3": "Jax",
+    "goodmatchup1": "Teemo",
+    "goodmatchup2": "Riven",
+    "goodmatchup3": "Yasuo",
+    "title": "Aatrox, the Darkin Blade",
+    "background": "../Main/background/AatroxBackground.jpg",
+    "passiveimage": "../Main/kepessegek/Aatrox/AatroxP.png",
+    "Qimage": "../Main/kepessegek/Aatrox/AatroxQ.png",
+    "Wimage": "../Main/kepessegek/Aatrox/AatroxW.png",
+    "Eimage": "../Main/kepessegek/Aatrox/AatroxE.png",
+    "Rimage": "../Main/kepessegek/Aatrox/AatroxR.png",
+    "video0": "../Main/kepessegek/Aatrox/passive.webm",
+    "video1": "../Main/kepessegek/Aatrox/q.webm",
+    "video2": "../Main/kepessegek/Aatrox/w.webm",
+    "video3": "../Main/kepessegek/AAtrox/e.webm",
+    "video4": "../Main/kepessegek/Aatrox/r.webm"
+}

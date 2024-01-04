@@ -1,0 +1,24 @@
+{
+    "story": "Elise is a deadly predator who dwells in a shuttered, lightless palace, deep within the oldest city of Noxus. Once mortal, she was the mistress of a powerful house, but the bite of a vile demigod transformed her into something beautiful, yet utterly inhuman—a spider-like creature, drawing unsuspecting prey into her web. To maintain her eternal youth, Elise now prefers to feed upon the naive and the faithless, and there are few who can resist her seductions.",
+    "lane": "Lane: Jungle",
+    "role": "Role: Mage",
+    "badmatchup1": "Lee Sin",
+    "badmatchup2": "Elise",
+    "badmatchup3": "Olaf",
+    "goodmatchup1": "Master Yi",
+    "goodmatchup2": "Amumu",
+    "goodmatchup3": "Nunu & Willump",
+    "title": "Elise, the Spider Queen",
+    "background": "../Main/background/EliseBackground.jpg",
+    "passiveimage": "../Main/kepessegek/Elise/passive.png",
+    "Qimage": "../Main/kepessegek/Elise/q.png",
+    "Wimage": "../Main/kepessegek/Elise/w.png",
+    "Eimage": "../Main/kepessegek/Elise/e.png",
+    "Rimage": "../Main/kepessegek/Elise/r.png",
+    "video0": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0096/ability_0096_P1.webm",
+    "video1": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0096/ability_0096_Q1.webm",
+    "video2": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0096/ability_0096_W1.webm",
+    "video3": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0096/ability_0096_E1.webm",
+    "video4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0096/ability_0096_R1.webm"
+
+}

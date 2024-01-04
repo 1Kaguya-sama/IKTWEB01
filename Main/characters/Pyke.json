@@ -1,0 +1,23 @@
+{
+    "story": "A renowned harpooner from the slaughter docks of Bilgewater, Pyke should have met his death in the belly of a gigantic jaull-fish… and yet, he returned. Now, stalking the dank alleys and backways of his former hometown, he uses his new supernatural gifts to bring a swift and gruesome end to those who make their fortune by exploiting others—and a city that prides itself on hunting monsters now finds a monster hunting them.",
+    "lane": "Lane: Support",
+    "role": "Role: Assassin",
+    "badmatchup1": "Leona",
+    "badmatchup2": "Nautilus",
+    "badmatchup3": "Blitzcrank",
+    "goodmatchup1": "Janna",
+    "goodmatchup2": "Sona",
+    "goodmatchup3": "Soraka",
+    "title": "Pyke, the Bloodharbor Ripper",
+    "background": "../Main/background/PykeBackground.jpg",
+    "passiveimage": "../Main/kepessegek/Pyke/passive.png",
+    "Qimage": "../Main/kepessegek/Pyke/q.png",
+    "Wimage": "../Main/kepessegek/Pyke/w.png",
+    "Eimage": "../Main/kepessegek/Pyke/e.png",
+    "Rimage": "../Main/kepessegek/Pyke/r.png",
+    "video0": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0292/ability_0292_P1.webm",
+    "video1": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0292/ability_0292_Q1.webm",
+    "video2": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0292/ability_0292_W1.webm",
+    "video3": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0292/ability_0292_E1.webm",
+    "video4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0292/ability_0292_R1.webm"
+}

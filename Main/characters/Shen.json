@@ -1,0 +1,23 @@
+{
+    "story": "Among the secretive, Ionian warriors known as the Kinkou, Shen serves as their leader, the Eye of Twilight. He longs to remain free from the confusion of emotion, prejudice, and ego, and walks the unseen path of dispassionate judgment between the spirit realm and the physical world. Tasked with enforcing the equilibrium between them, Shen wields blades of steel and arcane energy against any who would threaten it.",
+    "lane": "Lane: Top Lane",
+    "role": "Role: Tank",
+    "badmatchup1": "Darius",
+    "badmatchup2": "Garen",
+    "badmatchup3": "Jax",
+    "goodmatchup1": "Teemo",
+    "goodmatchup2": "Riven",
+    "goodmatchup3": "Yasuo",
+    "title": "Shen, the Eye of Twilight",
+    "background": "../Main/background/ShenBackground.jpg",
+    "passiveimage": "../Main/kepessegek/Shen/passive.png",
+    "Qimage": "../Main/kepessegek/Shen/q.png",
+    "Wimage": "../Main/kepessegek/Shen/w.png",
+    "Eimage": "../Main/kepessegek/Shen/e.png",
+    "Rimage": "../Main/kepessegek/Shen/r.png",
+    "video0": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0098/ability_0098_P1.webm",
+    "video1": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0098/ability_0098_Q1.webm",
+    "video2": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0098/ability_0098_W1.webm",
+    "video3": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0098/ability_0098_E1.webm",
+    "video4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0098/ability_0098_R1.webm"
+}

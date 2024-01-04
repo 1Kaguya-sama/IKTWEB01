@@ -1,0 +1,23 @@
+{
+    "story": "Claimed by the Void when she was only a child, Kai'Sa managed to survive through sheer tenacity and strength of will. Her experiences have made her a deadly hunter and, to some, the harbinger of a future they would rather not live to see. Having entered into an uneasy symbiosis with a living Void carapace, the time will soon come when she must decide whether to forgive those mortals who would call her a monster, and defeat the coming darkness together… or simply to forget, as the Void consumes the world that left her behind.",
+    "lane": "Lane: Bot Lane",
+    "role": "Role: Marksman",
+    "badmatchup1": "Jhin",
+    "badmatchup2": "Draven",
+    "badmatchup3": "Caitlyn",
+    "goodmatchup1": "Aphelios",
+    "goodmatchup2": "Senna",
+    "goodmatchup3": "Vayne",
+    "title": "Kai'Sa, Daughter of the Void",
+    "background": "../Main/background/KaiSaBackground.jpg",
+    "passiveimage": "../Main/kepessegek/KaiSa/passive.png",
+    "Qimage": "../Main/kepessegek/KaiSa/q.png",
+    "Wimage": "../Main/kepessegek/KaiSa/w.png",
+    "Eimage": "../Main/kepessegek/KaiSa/e.png",
+    "Rimage": "../Main/kepessegek/KaiSa/r.png",
+    "video0": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0291/ability_0291_P1.webm",
+    "video1": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0291/ability_0291_Q1.webm",
+    "video2": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0291/ability_0291_W1.webm",
+    "video3": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0291/ability_0291_E1.webm",
+    "video4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0291/ability_0291_R1.webm"
+}

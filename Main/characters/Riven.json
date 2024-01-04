@@ -1,0 +1,24 @@
+{
+    "story": "Once a swordmaster in the warhosts of Noxus, Riven is an expatriate in a land she previously tried to conquer. She rose through the ranks on the strength of her conviction and brutal efficiency, and was rewarded with a legendary runic blade and a warband of her own. However, on the Ionian front, Riven's faith in her homeland was tested and ultimately broken. Having severed all ties to the empire, she now seeks to find her place in a shattered world, even as rumors abound that Noxus itself has been reforged...",
+    "lane": "Lane: Top Lane",
+    "role": "Role: Fighter",
+    "badmatchup1": "Darius",
+    "badmatchup2": "Garen",
+    "badmatchup3": "Jax",
+    "goodmatchup1": "Teemo",
+    "goodmatchup2": "Riven",
+    "goodmatchup3": "Yasuo",
+    "title": "Riven, the Exile",
+    "background": ".../Main/background/RivenBackground.jpg",
+    "passiveimage": "../Main/kepessegek/Riven/passive.png",
+    "Qimage": "../Main/kepessegek/Riven/q.png",
+    "Wimage": "../Main/kepessegek/Riven/w.png",
+    "Eimage": "../Main/kepessegek/Riven/e.png",
+    "Rimage": "../Main/kepessegek/Riven/r.png",
+    "video0": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0092/ability_0092_P1.webm",
+    "video1": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0092/ability_0092_Q1.webm",
+    "video2": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0092/ability_0092_W1.webm",
+    "video3": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0092/ability_0092_E1.webm",
+    "video4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0092/ability_0092_R1.webm"
+
+}

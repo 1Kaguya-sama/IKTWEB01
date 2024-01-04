@@ -1,0 +1,25 @@
+{
+        "story": "Aurelion Sol once graced the vast emptiness of the cosmos with celestial wonders of his own devising. Now, he is forced to wield his awesome power at the behest of a space-faring empire that tricked him into servitude. Desiring a return to his star-forging ways, Aurelion Sol will drag the very stars from the sky, if he must, in order to regain his freedom.",
+        "lane": "Lane: Mid Lane",
+        "role": "Role: Mage",
+        "badmatchup1": "Zed",
+        "badmatchup2": "Fizz",
+        "badmatchup3": "Kassadin",
+        "goodmatchup1": "Ahri",
+        "goodmatchup2": "Katarina",
+        "goodmatchup3": "Taliyah",
+        "title": "Aurelion Sol, The Star Forger",
+        "background": "../Main/background/AurelionSolBackground.jpg",
+        "passiveimage": "../Main/kepessegek/AurelionSol/passive.png",
+        "Qimage": "../Main/kepessegek/AurelionSol/q.png",
+        "Wimage": "../Main/kepessegek/AurelionSol/w.png",
+        "Eimage": "../Main/kepessegek/AurelionSol/e.png",
+        "Rimage": "../Main/kepessegek/AurelionSol/r.png",
+        "video0": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0054/ability_0054_P1.webm",
+        "video1": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0054/ability_0054_Q1.webm",
+        "video2": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0054/ability_0054_W1.webm",
+        "video3": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0054/ability_0054_E1.webm",
+        "video4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0054/ability_0054_R1.webm"
+
+        
+    }

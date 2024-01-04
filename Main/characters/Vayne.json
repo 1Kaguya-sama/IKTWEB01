@@ -1,0 +1,24 @@
+{
+    "story": "Shauna Vayne is a deadly, remorseless monster hunter who has pledged her life to finding and killing the demon who murdered her family. Armed with her wrist-mounted crossbows and a heart full of vengeance, Vayne is only truly happy when she's slaying practitioners or creations of the dark arts. She believes that the only worthwhile heroes are those who rid the world of evil, no matter what means they must use to do so.",
+    "lane": "Lane: Bot Lane",
+    "role": "Role: Marksman",
+    "badmatchup1": "Jhin",
+    "badmatchup2": "Draven",
+    "badmatchup3": "Caitlyn",
+    "goodmatchup1": "Aphelios",
+    "goodmatchup2": "Senna",
+    "goodmatchup3": "Vayne",
+    "title": "Vayne, the Night Hunter",
+    "background": "../Main/background/VayneBackground.jpg",
+    "passiveimage": "../Main/kepessegek/Vayne/passive.png",
+    "Qimage": "../Main/kepessegek/Vayne/q.png",
+    "Wimage": "../Main/kepessegek/Vayne/w.png",
+    "Eimage": "../Main/kepessegek/Vayne/e.png",
+    "Rimage": "../Main/kepessegek/Vayne/r.png",
+    "video0": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0007/ability_0007_P1.webm",
+    "video1": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0007/ability_0007_Q1.webm",
+    "video2": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0007/ability_0007_W1.webm",
+    "video3": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0007/ability_0007_E1.webm",
+    "video4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0007/ability_0007_R1.webm"
+
+}

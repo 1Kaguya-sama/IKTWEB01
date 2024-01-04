@@ -1,0 +1,25 @@
+{
+    "story": "Samira stares death in the eye with unyielding confidence, seeking thrill wherever she goes. After her Shuriman home was destroyed as a child, Samira found her true calling in Noxus, where she built a reputation as a stylish daredevil taking on dangerous missions of the highest caliber. Wielding black-powder pistols and a custom-engineered blade, Samira thrives in life-or-death circumstances, eliminating any who stand in her way with flash and flair.",
+    "lane": "Lane: Bot Lane",
+    "role": "Role: Marksman",
+    "badmatchup1": "Jhin",
+    "badmatchup2": "Draven",
+    "badmatchup3": "Caitlyn",
+    "goodmatchup1": "Aphelios",
+    "goodmatchup2": "Senna",
+    "goodmatchup3": "Vayne",
+    "title": "Samira, the Desert Rose", 
+    "background": "../Main/background/SamiraBackground.jpg",
+    "passiveimage": "../Main/kepessegek/Samira/passive.png",
+    "Qimage": "../Main/kepessegek/Samira/q.png",
+    "Wimage": "../Main/kepessegek/Samira/w.png",
+    "Eimage": "../Main/kepessegek/Samira/e.png",
+    "Rimage": "../Main/kepessegek/Samira/r.png",
+    "video0": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0295/ability_0295_P1.webm",
+    "video1": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0295/ability_0295_Q1.webm",
+    "video2": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0295/ability_0295_W1.webm",
+    "video3": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0295/ability_0295_E1.webm",
+    "video4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0295/ability_0295_R1.webm"
+
+
+}

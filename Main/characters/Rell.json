@@ -1,0 +1,23 @@
+{
+    "story": "Rell is a merciless, living weapon, who fights to protect her fellow Shurimans. She utilizes the power of metal to turn her foes' innate ferocity against them—with the help of her childhood friend, the giant lizard Aza, she hones her abilities to bind and manipulate the elements. Enemies who underestimate her will find themselves missing limbs… or worse.",
+    "lane": "Lane: Support",
+    "role": "Role: Tank",
+    "badmatchup1": "Leona",
+    "badmatchup2": "Nautilus",
+    "badmatchup3": "Blitzcrank",
+    "goodmatchup1": "Janna",
+    "goodmatchup2": "Sona",
+    "goodmatchup3": "Soraka",
+    "title": "Rell, the Iron Maiden",
+    "background": "../Main/background/RellBackground.jpg",
+    "passiveimage": "../Main/kepessegek/Rell/passive.png",
+    "Qimage": "../Main/kepessegek/Rell/q.png",
+    "Wimage": "../Main/kepessegek/Rell/w.png",
+    "Eimage": "../Main/kepessegek/Rell/e.png",
+    "Rimage": "../Main/kepessegek/Rell/r.png",
+    "video0": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0296/ability_0296_P1.webm",
+    "video1": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0296/ability_0296_Q1.webm",
+    "video2": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0296/ability_0296_W1.webm",
+    "video3": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0296/ability_0296_E1.webm",
+    "video4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0296/ability_0296_R1.webm"
+}

@@ -1,0 +1,23 @@
+{
+    "story": "Charismatic and dangerous, Rakan is an infamous vastayan troublemaker and the greatest battle-dancer in Lhotlan tribal history. To the humans of the Ionian highlands, his name has long been synonymous with wild festivals, uncontrollable parties, and anarchic music. Few would suspect this energetic, traveling showman is also partner to the rebel Xayah, and is dedicated to her cause.",
+    "lane": "Lane: Support",
+    "role": "Role: Mage",
+    "badmatchup1": "Leona",
+    "badmatchup2": "Nautilus",
+    "badmatchup3": "Blitzcrank",
+    "goodmatchup1": "Janna",
+    "goodmatchup2": "Sona",
+    "goodmatchup3": "Soraka",
+    "title": "Rakan, the Charmer",
+    "background": "../Main/background/RakanBackground.jpg",
+    "passiveimage": "../Main/kepessegek/Rakan/passive.png",
+    "Qimage": "../Main/kepessegek/Rakan/q.png",
+    "Wimage": "../Main/kepessegek/Rakan/w.png",
+    "Eimage": "../Main/kepessegek/Rakan/e.png",
+    "Rimage": "../Main/kepessegek/Rakan/r.png",
+    "video0": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0147/ability_0147_P1.webm",
+    "video1": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0147/ability_0147_Q1.webm",
+    "video2": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0147/ability_0147_W1.webm",
+    "video3": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0147/ability_0147_E1.webm",
+    "video4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0147/ability_0147_R1.webm"
+}

@@ -1,0 +1,24 @@
+{
+    "story": "Sadistic and cunning, Thresh is an ambitious and restless spirit of the Shadow Isles. Once the custodian of countless arcane secrets, he was undone by a power greater than life or death, and now sustains himself by tormenting and breaking others with slow, excruciating inventiveness. His victims suffer far beyond their brief mortal coil as Thresh wreaks agony upon their souls, imprisoning them in his unholy lantern to torture for all eternity.",
+    "lane": "Lane: Support",
+    "role": "Role: Tank",
+    "badmatchup1": "Leona",
+    "badmatchup2": "Nautilus",
+    "badmatchup3": "Blitzcrank",
+    "goodmatchup1": "Janna",
+    "goodmatchup2": "Sona",
+    "goodmatchup3": "Soraka",
+    "title": "Thresh, the Chain Warden",
+    "background": "../Main/background/ThreshBackground.jpg",
+    "passiveimage": "../Main/kepessegek/Thresh/passive.png",
+    "Qimage": "../Main/kepessegek/Thresh/q.png",
+    "Wimage": "../Main/kepessegek/Thresh/w.png",
+    "Eimage": "../Main/kepessegek/Thresh/e.png",
+    "Rimage": "../Main/kepessegek/Thresh/r.png",
+    "video0": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0042/ability_0042_P1.webm",
+    "video1": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0042/ability_0042_Q1.webm",
+    "video2": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0042/ability_0042_W1.webm",
+    "video3": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0042/ability_0042_E1.webm",
+    "video4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0042/ability_0042_R1.webm"
+
+}

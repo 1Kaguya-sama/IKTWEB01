@@ -1,0 +1,24 @@
+{
+    "story": "Lucian, a Sentinel of Light, is a grim hunter of undying spirits, pursuing them relentlessly and annihilating them with his twin relic pistols. After the wraith Thresh slew his wife, Lucian embarked on the path of vengeance—but even with her return to life, his rage is undiminished. Merciless and single-minded, Lucian will stop at nothing to protect the living from the long-dead horrors of the Black Mist.",
+    "lane": "Lane: Bot Lane",
+    "role": "Role: Marksman",
+    "badmatchup1": "Jhin",
+    "badmatchup2": "Draven",
+    "badmatchup3": "Caitlyn",
+    "goodmatchup1": "Aphelios",
+    "goodmatchup2": "Senna",
+    "goodmatchup3": "Vayne",
+    "title": "Lucian, the Purifier",
+    "background": "../Main/background/LucianBackground.jpg",
+    "passiveimage": "../Main/kepessegek/Lucian/passive.png",
+    "Qimage": "../Main/kepessegek/Lucian/q.png",
+    "Wimage": "../Main/kepessegek/Lucian/w.png",
+    "Eimage": "../Main/kepessegek/Lucian/e.png",
+    "Rimage": "../Main/kepessegek/Lucian/r.png",
+    "video0": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0051/ability_0051_P1.webm",
+    "video1": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0051/ability_0051_Q1.webm",
+    "video2": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0051/ability_0051_W1.webm",
+    "video3": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0051/ability_0051_E1.webm",
+    "video4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0051/ability_0051_R1.webm"
+    
+}

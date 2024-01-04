@@ -1,0 +1,24 @@
+{
+    "story": "Taliyah is a nomadic mage from Shurima, torn between teenage wonder and adult responsibility. She has crossed nearly all of Valoran on a journey to learn the true nature of her growing powers, though more recently she has returned to protect her tribe. Some have mistaken her compassion for weakness and paid the ultimate price—for beneath Taliyah's youthful demeanor is a will strong enough to move mountains, and a spirit fierce enough to make the earth itself tremble.",
+    "lane": "Lane: Mid Lane",
+    "role": "Role: Mage",
+    "badmatchup1": "Zed",
+    "badmatchup2": "Fizz",
+    "badmatchup3": "Kassadin",
+    "goodmatchup1": "Ahri",
+    "goodmatchup2": "Veigar",
+    "goodmatchup3": "Katarina",
+    "title": "Taliyah, the Stoneweaver",
+    "background": "../Main/background/TaliyahBackground.jpg",
+    "passiveimage": "../Main/kepessegek/Taliyah/passive.png",
+    "Qimage": "../Main/kepessegek/Taliyah/q.png",
+    "Wimage": "../Main/kepessegek/Taliyah/w.png",
+    "Eimage": "../Main/kepessegek/Taliyah/e.png",
+    "Rimage": "../Main/kepessegek/Taliyah/r.png",
+    "video0": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0162/ability_0162_P1.webm",
+    "video1": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0162/ability_0162_Q1.webm",
+    "video2": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0162/ability_0162_W1.webm",
+    "video3": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0162/ability_0162_E1.webm",
+    "video4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0162/ability_0162_R1.webm"
+
+}

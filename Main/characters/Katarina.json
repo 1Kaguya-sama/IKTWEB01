@@ -1,0 +1,23 @@
+{
+    "story": "Decisive in judgment and lethal in combat, Katarina is a Noxian assassin of the highest caliber. Eldest daughter to the legendary General Du Couteau, she made her talents known with swift kills against unsuspecting enemies. Her fiery ambition has driven her to pursue heavily-guarded targets, even at the risk of endangering her allies—but no matter the mission, Katarina will not hesitate to execute her duty amid a whirlwind of serrated daggers.",
+    "lane": "Lane: Mid Lane",
+    "role": "Role: Assassin",
+    "badmatchup1": "Zed",
+    "badmatchup2": "Fizz",
+    "badmatchup3": "Kassadin",
+    "goodmatchup1": "Ahri",
+    "goodmatchup2": "Veigar",
+    "goodmatchup3": "Taliyah",
+    "title": "Katarina, the Sinister Blade",
+    "background": "../Main/background/KatarinaBackground.jpg",
+    "passiveimage": "../Main/kepessegek/Katarina/passive.png",
+    "Qimage": "../Main/kepessegek/Katarina/q.png",
+    "Wimage": "../Main/kepessegek/Katarina/w.png",
+    "Eimage": "../Main/kepessegek/Katarina/e.png",
+    "Rimage": "../Main/kepessegek/Katarina/r.png",
+    "video0": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0059/ability_0059_P1.webm",
+    "video1": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0059/ability_0059_Q1.webm",
+    "video2": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0059/ability_0059_W1.webm",
+    "video3": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0059/ability_0059_E1.webm",
+    "video4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0059/ability_0059_R1.webm"
+}

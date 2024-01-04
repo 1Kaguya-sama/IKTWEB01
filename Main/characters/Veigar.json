@@ -1,0 +1,24 @@
+{
+    "story": "A master of dark sorcery with a boundless hunger for power, Veigar has spellbound entire armies and trapped them in his arcane lair. No longer caring to conquer Runeterra, he now serves a higher power—one that delights in the evil running through Veigar's veins.",
+    "lane": "Lane: Mid Lane",
+    "role": "Role: Mage",
+    "badmatchup1": "Zed",
+    "badmatchup2": "Fizz",
+    "badmatchup3": "Kassadin",
+    "goodmatchup1": "Ahri",
+    "goodmatchup2": "Katarina",
+    "goodmatchup3": "Taliyah",
+    "title": "Veigar, the Tiny Master of Evil",
+    "background": "../Main/background/VeigarBackground.jpg",
+    "passiveimage": "../Main/kepessegek/Veigar/passive.png",
+    "Qimage": "../Main/kepessegek/Veigar/q.png",
+    "Wimage": "../Main/kepessegek/Veigar/w.png",
+    "Eimage": "../Main/kepessegek/Veigar/e.png",
+    "Rimage": "../Main/kepessegek/Veigar/r.png",
+    "video0": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0002/ability_0002_P1.webm",
+    "video1": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0002/ability_0002_Q1.webm",
+    "video2": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0002/ability_0002_W1.webm",
+    "video3": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0002/ability_0002_E1.webm",
+    "video4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0002/ability_0002_R1.webm"
+
+}

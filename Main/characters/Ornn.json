@@ -1,0 +1,24 @@
+{
+    "story": "Ornn is the Freljordian spirit of forging and craftsmanship. He works in the solitude of a massive smithy, hammered out from the lava caverns beneath the volcano Hearth-Home. There he stokes bubbling cauldrons of molten rock to purify ores and fashion items of unsurpassed quality. When other deities—especially Volibear—walk the earth and meddle in mortal affairs, Ornn arises to put these impetuous beings back in their place, either with his trusty hammer or the fiery power of the mountains themselves.",
+    "lane": "Lane: Top Lane",
+    "role": "Role: Tank",
+    "badmatchup1": "Darius",
+    "badmatchup2": "Garen",
+    "badmatchup3": "Jax",
+    "goodmatchup1": "Teemo",
+    "goodmatchup2": "Riven",
+    "goodmatchup3": "Yasuo",
+    "title": "Ornn, the Fire below the Mountain",
+    "background": "../Main/background/OrnnBackground.jpg",
+    "passiveimage": "../Main/kepessegek/Ornn/passive.png",
+    "Qimage": "../Main/kepessegek/Ornn/q.png",
+    "Wimage": "../Main/kepessegek/Ornn/w.png",
+    "Eimage": "../Main/kepessegek/Ornn/e.png",
+    "Rimage": "../Main/kepessegek/Ornn/r.png",
+    "video0": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0145/ability_0145_P1.webm",
+    "video1": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0145/ability_0145_Q1.webm",
+    "video2": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0145/ability_0145_W1.webm",
+    "video3": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0145/ability_0145_E1.webm",
+    "video4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0145/ability_0145_R1.webm"
+
+}
